@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Plugin | high-frequency-trading + event-driven-trading is the best Polymarket plugin, featuring high-frequency-trading and event-driven-trading. Smart, fast, and
 
 
 
